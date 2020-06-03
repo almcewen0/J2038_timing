@@ -1,2 +1,2 @@
 # 2038+35
-Stuff for timing/observing J2038+35
+Notes for future timing/observing efforts for pulsar J2038+35. Includes some preliminary suitability tests for GR experiments.
